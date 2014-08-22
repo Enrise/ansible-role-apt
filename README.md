@@ -20,7 +20,7 @@ This role is so terribly simple, only one variable exists.
       vars_files:
         - vars/apache.yml
       roles:
-        - { role: enrise.apt, apt$cache_valid_time: 3600 }
+        - { role: enrise.apt, apt_cache_valid_time: 3600 }
 
 ## Licence
 
