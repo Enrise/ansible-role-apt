@@ -1,0 +1,5 @@
+---
+- name: Update APT once in a while
+  apt:
+    cache_valid_time={{apt_cache_valid_time}}
+    update_cache=yes
