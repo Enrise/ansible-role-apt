@@ -24,7 +24,7 @@ This role is so terribly simple, only one variable exists.
 
 ## Licence
 
-BSD
+MIT
 
 ## Feedback? Found a bug? Requests?
 
